@@ -1,1 +1,1 @@
-# Energy Compaction Properties of Transforms
+# EE41013_Digital Signal Processing
