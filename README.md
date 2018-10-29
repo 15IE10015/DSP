@@ -1,1 +1,1 @@
-# DSP
+# Energy Compaction Properties of Transforms
